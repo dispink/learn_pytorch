@@ -1,3 +1,5 @@
 data/
 model.pth
 .DS_Store
+.gitignore
+model_weights.pth
